@@ -5,6 +5,7 @@ You can try
 1. Only Python 3.10+
 2. pip install pygame-ce
 3. run python file
+
 Don't forget
 pip install -r requirements.txt
 Cause it correct version for my code
