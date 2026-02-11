@@ -7,5 +7,6 @@ You can try
 3. run python file
 
 Don't forget
-pip install -r requirements.txt
+==> pip install -r requirements.txt 
+
 Cause it correct version for my code
